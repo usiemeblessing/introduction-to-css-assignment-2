@@ -1,0 +1,38 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+p {
+  text-align: justify;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.section {
+  border: 2px solid black;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.first-section p {
+  color: green;
+}
+
+.second-section p {
+  color: red;
+}
+
+.third-section p {
+  color: blue;
+}
+
+ul li {
+  margin-bottom: 20px;
+  color: red;
+  font-size: 14px;
+}
